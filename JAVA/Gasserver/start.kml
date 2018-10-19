@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.0'>
+<Folder>
+<name>GPSoverIP</name>
+<NetworkLink>
+<name>GPS Explorer</name>
+<flyToView>1</flyToView>
+<Url>
+<href>C:\Users\ALLEN\Desktop\LifiTollGate\LifiServer\gps.kml</href>
+<refreshMode>onInterval</refreshMode>
+<refreshInterval>4</refreshInterval>
+</Url>
+<refreshVisibility>1</refreshVisibility>
+</NetworkLink>
+</Folder>
+</kml>

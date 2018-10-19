@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<NetworkLink>
+<Placemark>
+<LookAt>
+<longitude>80.22378238</longitude>
+<latitude>13.05884337</latitude>
+<altitude>500</altitude>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+<refreshVisibility>6</refreshVisibility>
+<styleUrl>#PushPin</styleUrl>
+<Point>
+<refreshMode>onRequest</refreshMode>
+<refreshMode>Periodically</refreshMode>
+<coordinates>80.22378238,13.05884337,0</coordinates>
+</Point>
+</Placemark>
+</NetworkLink>
+</Document>
+</kml>
